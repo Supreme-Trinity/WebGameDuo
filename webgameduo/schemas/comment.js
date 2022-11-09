@@ -8,4 +8,4 @@ export default {
         title: 'PostedBy',
         type: 'postedBy',
       },
-      
+
